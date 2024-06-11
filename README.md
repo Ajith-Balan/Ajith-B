@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/ajith____b" target="blank"><img src="https://img.shields.io/twitter/follow/ajith____b?logo=twitter&style=for-the-badge" alt="ajith____b" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS, BOOTSTRAP, JAVASCRIPT**
 
 - 💬 Ask me about **HTML,CSS, BOOTSTRAP, JAVASCRIPT**
 
